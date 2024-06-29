@@ -1,0 +1,15 @@
+{
+  "name": "ts-bridge-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ts-bridge --project tsconfig.json --clean"
+  },
+  "keywords": [],
+  "author": "Innei",
+  "license": "ISC",
+  "dependencies": {
+    "@ts-bridge/cli": "0.1.4"
+  }
+}
